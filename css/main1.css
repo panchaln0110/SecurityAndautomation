@@ -1114,6 +1114,9 @@ div.col-sm-2.col-6 {
     .w-hpb-text {
         max-width: 385px;
     }
+    .rmt-50{
+        margin-top: 0px;
+    }
     /*    reliance Home comfort check available button*/
     .change-position {
         float: left;
